@@ -29,3 +29,36 @@ img{
 .smile-man img{
   height: 18rem;
 }
+.about{
+  font-size: 1.6rem;
+}
+.location{
+  background-color: #3a546d;
+}
+.location a{
+  color: #1abc9c;
+  text-decoration: none;
+}
+.location{
+  font-size: 2rem;
+}
+footer{
+  background-color: #2c3e50;
+}
+.line-star-container {
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+}
+.line {
+  background-color: #FFFFFF; 
+  height: 5px;
+  width: 15%; 
+  margin: 0 10px; 
+}
+.line-black{
+  background-color: #2c3e50; 
+  height: 5px;
+  width: 15%; 
+  margin: 0 10px; 
+}
