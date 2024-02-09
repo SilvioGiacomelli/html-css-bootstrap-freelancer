@@ -84,4 +84,13 @@ footer{
 .fa-download {
   margin-right: 5px; 
 }
-
+.hovered{
+  display: none;
+  position:absolute;
+  top: 0;
+  left: 0;
+}
+.test img:hover .hovered{
+  display: block;
+  padding: 0 5px 0 5px;
+}
