@@ -89,6 +89,7 @@ footer{
   position:absolute;
   top: 0;
   left: 0;
+  background-color: rgb(127, 255, 212, 0.2);
 }
 .test img:hover .hovered{
   display: block;
